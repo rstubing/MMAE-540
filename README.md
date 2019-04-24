@@ -3,7 +3,7 @@ Includes Homework and Projects from MMAE 540 Robotics Class
 
 Tractor trailer and differential drive files are part of the final project for this class that included simulations of a tractor trailer with multiple trailers and a differential drive robot. 
 
-TractorTrailerFWD.m simulates a "tricycle" type tractor trailer with two trailers from a straight line to a circular path.  Download xxx.m to run properly
+TractorTrailerFWD.m simulates a "tricycle" type tractor trailer with two trailers from a straight line to a circular path.  -Download mobiletest2dyn.m to run properly
 
 TractorTrailerToTarget.m builds upon the tractor trailer simulated in TractorTrailerFWD.m and runs to a target while avoiding obstacles by incorporating a path planning algorithm.
 
