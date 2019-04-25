@@ -13,4 +13,4 @@ DifferentialDriveTest.m tested the kinematic equations of a differential drive r
 Download to run properly: mobile5dyn.m
 
 DDPathAndObstacleAvoid.m uses the kinematics of the differential drive robot tested in DifferentialDriveTest.m and implements them with a path planning and obstacle avoidance algorithm to simulate a differential drive robot approaching a target and avaoiding obstacles.
-Download to run properly: 
+Download to run properly: mmae540_fatt.m and mmae540_ffrep.m
