@@ -7,7 +7,7 @@ TractorTrailerFWD.m simulates a "tricycle" type tractor trailer with two trailer
 Download to run properly: mobiletest2dyn.m
 
 TractorTrailerToTarget.m builds upon the tractor trailer simulated in TractorTrailerFWD.m and runs to a target while avoiding obstacles by incorporating a path planning algorithm.
-Download to run properly: mmae540_fatt.m and mmae540_ffrep.m
+  Download to run properly: mmae540_fatt.m and mmae540_ffrep.m
 
 DifferentialDriveTest.m tested the kinematic equations of a differential drive robot, the wheel speeds can be changed manually to visualize difference manuevers that may be implemented.
 Download to run properly: mobile5dyn.m
